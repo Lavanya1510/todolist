@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "git": "^0.1.5",
+    "pubsub": "^3.2.1",
+    "pubsub-js": "^1.7.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
@@ -30,5 +32,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lavanya1510/todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lavanya1510/todolist/issues"
+  },
+  "homepage": "https://github.com/Lavanya1510/todolist#readme"
 }
